@@ -6,10 +6,6 @@
 
 <br/>
 
-![Profile Views](https://hits.sh/github.com/Aditya92Raj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6D28D9&labelColor=0A192F)
-[![Followers](https://img.shields.io/github/followers/Aditya92Raj?label=FOLLOWERS&logo=github&style=for-the-badge&color=00E5FF&labelColor=0A192F)](https://github.com/Aditya92Raj?tab=followers)
-[![Follow](https://img.shields.io/badge/FOLLOW_ME-Aditya_Raj-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Aditya92Raj)
-
 </div>
 
 <br/>
