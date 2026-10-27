@@ -51,6 +51,7 @@ I believe in continuous learning, consistency and honest hard work, and I'm alwa
 | 🎯 Level | 🏫 Institution |
 |:---|:---|
 | **10th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
+| **10th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
 
 ---
 
