@@ -29,9 +29,9 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Aditya Raj** from **Vaishali, Bihar**. I'm passionate about technology and I'm continuously working to build my skills and knowledge in the IT field.
+Hi, I'm **Aditya Raj** from **Vaishali, Bihar**. I'm Passionate about **Cybersecurity**, Learning **python, java, C, C++, Full Stack Development & AI/ML**. |🛡️ Exploring **Ethical Hacking, Network Security & Digital Protection**. I'm continuously working to build my skills and knowledge in the **IT field**.
 
-My interest in computers began in school, where I completed my 10th from **Rajkiyakrit JT+2 High School, Barua, Bahuara**. Since then I've been curious about how technology works, and I enjoy learning new concepts, solving problems and improving my logical thinking.
+My interest in computers began in school, where I completed my 10th from **Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar**, I also completed my 12th from **Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar**, Currently I am Pursuing BCA from **Shobhit Institute of Engineering and Technology (Deemed to be University), Meerut, U.P**. Since then I've been curious about how technology works, and I enjoy learning new concepts, **solving problems** and improving my **logical thinking.**
 
 I believe in continuous learning, consistency and honest hard work, and I'm always looking for opportunities to grow and connect with people who share the same passion.
 
