@@ -6,9 +6,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=FOLLOWERS&logo=github&style=for-the-badge&color=00E5FF&labelColor=0A192F)](https://github.com/YOUR-GITHUB-USERNAME?tab=followers)
-[![Follow](https://img.shields.io/badge/FOLLOW_ME-Aditya_Raj-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/YOUR-GITHUB-USERNAME)
+![Profile Views](https://hits.sh/github.com/Aditya92Raj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6D28D9&labelColor=0A192F)
+[![Followers](https://img.shields.io/github/followers/Aditya92Raj?label=FOLLOWERS&logo=github&style=for-the-badge&color=00E5FF&labelColor=0A192F)](https://github.com/Aditya92Raj?tab=followers)
+[![Follow](https://img.shields.io/badge/FOLLOW_ME-Aditya_Raj-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Aditya92Raj)
 
 </div>
 
@@ -52,7 +52,7 @@ I believe in continuous learning, consistency and honest hard work, and I'm alwa
 |:---|:---|
 | **10th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
 | **12th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
-| **Pursuing BCA** | Shobhit Institute of Engineering and Technology (Deemed to be University) ,Meerut, U.P |
+| **Pursuing BCA** | Shobhit Institute of Engineering and Technology (Deemed to be University), Meerut, U.P |
 
 ---
 
@@ -60,12 +60,12 @@ I believe in continuous learning, consistency and honest hard work, and I'm alwa
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=YOUR-GITHUB-USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00E5FF&icon_color=6D28D9&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00E5FF&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya92Raj&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00E5FF&icon_color=6D28D9&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya92Raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00E5FF&text_color=ffffff" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0A192F&ring=00E5FF&fire=6D28D9&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" />
+<img src="https://streak-stats.demolab.com/?user=Aditya92Raj&theme=tokyonight&hide_border=true&background=0A192F&ring=00E5FF&fire=6D28D9&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" />
 
 </div>
 
