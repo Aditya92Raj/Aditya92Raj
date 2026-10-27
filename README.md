@@ -51,7 +51,8 @@ I believe in continuous learning, consistency and honest hard work, and I'm alwa
 | 🎯 Level | 🏫 Institution |
 |:---|:---|
 | **10th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
-| **10th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
+| **12th** | Rajkiyakrit JT+2 High School, Barua, Bahuara, Vaishali, Bihar |
+| **Pursuing BCA** | Shobhit Institute of Engineering and Technology (Deemed to be University) ,Meerut, U.P |
 
 ---
 
