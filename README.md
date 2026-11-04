@@ -13,8 +13,6 @@
 [![Stars](https://img.shields.io/github/stars/Aditya92Raj?style=for-the-badge&label=STARS&labelColor=0A192F&color=2563FF)](https://github.com/Aditya92Raj?tab=repositories&sort=stargazers)
 </div>
 
-<br/>
-
 ---
 
 ## 🐍 Snake Game
@@ -26,6 +24,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya92Raj/Aditya92Raj/output/github-contribution-grid-snake.svg" />
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Aditya92Raj/Aditya92Raj/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+<br/>
 
 </div>
 
