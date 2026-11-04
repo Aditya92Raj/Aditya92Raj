@@ -8,7 +8,9 @@
 
 ![Profile Views](https://hits.sh/github.com/Aditya92Raj.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=6D28D9&labelColor=0A192F)
 [![Followers](https://img.shields.io/github/followers/Aditya92Raj?label=FOLLOWERS&logo=github&style=for-the-badge&color=00E5FF&labelColor=0A192F)](https://github.com/Aditya92Raj?tab=followers)
-[![Follow](https://img.shields.io/badge/FOLLOW_ME-Aditya_Raj-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Aditya92Raj)
+[![Follow](https://img.shields.io/badge/FOLLOW_ME-Aditya_Raj-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F)](https://github.com/Aditya92Raj)
+<br/>
+[![Stars](https://img.shields.io/github/stars/Aditya92Raj?style=for-the-badge&label=STARS&labelColor=0A192F&color=2563FF)](https://github.com/Aditya92Raj?tab=repositories&sort=stargazers)
 </div>
 
 <br/>
