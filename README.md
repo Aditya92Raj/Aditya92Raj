@@ -60,12 +60,22 @@ I believe in continuous learning, consistency and honest hard work, and I'm alwa
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya92Raj&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00E5FF&icon_color=6D28D9&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya92Raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00E5FF&text_color=ffffff" />
+<img height="180" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya92Raj&theme=tokyonight" />
+<img height="180" alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya92Raj&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Aditya92Raj&theme=tokyonight&hide_border=true&background=0A192F&ring=00E5FF&fire=6D28D9&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" />
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Aditya92Raj&theme=tokyonight&hide_border=true&background=0A192F&ring=00E5FF&fire=6D28D9&currStreakLabel=00E5FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9CA3AF" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img alt="Contribution Graph" src="https://ghchart.rshah.org/2563FF/Aditya92Raj" />
 
 </div>
 
@@ -82,6 +92,6 @@ I believe in continuous learning, consistency and honest hard work, and I'm alwa
 ### ⭐ Thanks for visiting my profile! ⭐
 **Let's learn and grow together.** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6D28D9,100:020617&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6D28D9,100:020617&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
