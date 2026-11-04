@@ -15,6 +15,20 @@
 
 <br/>
 
+---
+
+## 🐍 Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya92Raj/Aditya92Raj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya92Raj/Aditya92Raj/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Aditya92Raj/Aditya92Raj/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
